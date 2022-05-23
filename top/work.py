@@ -1,0 +1,1 @@
+top = {"топ букмекеров рф":["https://bookmaker-ratings.ru/bookmakers-homepage/legal-bookmakers/", "https://bookmaker-ratings.ru/bookmakers-homepage/luchshie-bukmekerskie-kontory/", "https://legalbet.ru/bukmekerskye-kontory/"]}
